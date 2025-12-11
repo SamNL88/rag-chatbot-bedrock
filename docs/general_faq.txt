@@ -1,0 +1,32 @@
+SmartHeat Pro Thermostat – General FAQ
+--------------------------------------
+
+What heating systems does SmartHeat Pro support?
+SmartHeat Pro supports most 24V HVAC systems, including gas, oil, electric, and heat pumps. It does not support high-voltage systems such as 110/220V baseboard heaters.
+
+Does SmartHeat Pro require a C-wire?
+Yes, a C-wire is recommended for continuous power. If your system lacks a C-wire, you may use the included Power Adapter Kit or PEK terminal.
+
+Can I use SmartHeat Pro without the mobile app?
+Basic thermostat functions are available without the app, but remote control, scheduling, and energy reports require the SmartHeat app.
+
+Can multiple users control the same thermostat?
+Yes. You may invite additional users through the mobile app.
+
+Can SmartHeat Pro function without Wi-Fi?
+The thermostat will continue controlling heating and cooling based on your last set temperature, but advanced features such as scheduling and automations will be unavailable.
+
+How often does the thermostat update firmware?
+Firmware updates are released several times per year and download automatically when the device is idle.
+
+What is the temperature accuracy?
+SmartHeat Pro maintains temperature within ±0.5°C under normal conditions.
+
+Does it support multiple zones?
+Yes, multiple thermostats can be paired to create a multi-zone heating and cooling system.
+
+Are software updates free?
+Yes, all thermostat software and mobile app updates are free.
+
+What are the warranty terms?
+SmartHeat Pro includes a 2-year limited warranty covering manufacturing defects. Damage caused by incorrect wiring or electrical faults is not covered.

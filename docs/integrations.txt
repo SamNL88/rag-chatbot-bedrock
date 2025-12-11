@@ -1,0 +1,58 @@
+SmartHeat Pro Thermostat – Integrations Guide
+---------------------------------------------
+
+Overview
+The SmartHeat Pro thermostat integrates seamlessly with leading smart home systems and voice assistants. Integrations allow hands-free control, automation triggers, and enhanced monitoring. This guide explains supported platforms and setup steps.
+
+Voice Assistants
+SmartHeat Pro supports:
+- Amazon Alexa
+- Google Assistant
+- Apple HomeKit (via firmware update)
+
+Alexa Setup
+1. Open the Alexa app and navigate to Skills & Games.
+2. Search for “SmartHeat Pro.”
+3. Enable the skill and log in with your SmartHeat account.
+4. Alexa will automatically detect the thermostat.
+You may now adjust temperatures using commands like:
+“Alexa, set the living room temperature to 21 degrees.”
+
+Google Assistant Setup
+1. Open Google Home and tap the “+” icon.
+2. Select Set up device → Works with Google.
+3. Search for and connect your SmartHeat Pro account.
+After syncing, use commands such as:
+“Hey Google, turn on Eco Mode.”
+
+HomeKit Setup
+HomeKit support requires firmware v1.4 or higher.
+To add SmartHeat Pro:
+1. Open the Apple Home app.
+2. Tap the “+” icon and choose Add Accessory.
+3. Scan the HomeKit code displayed on the thermostat.
+Once paired, you can create Home automations and scenes.
+
+Smart Home Hubs
+SmartHeat Pro can also integrate with smart home hubs such as SmartThings and Hubitat. These integrations allow advanced automation, multi-device routines, and conditional triggers.
+
+IFTTT Support
+The thermostat includes support for IFTTT (If This Then That). Popular recipes include:
+- If outside temperature < 0°C → preheat home at 06:00
+- If user leaves geofence → enable Eco Mode
+- If humidity > 70% → activate circulation fan
+
+Energy Monitoring Platforms
+SmartHeat Pro shares anonymized HVAC runtime data with supported energy-monitoring services. This allows users to track long-term energy trends, compare efficiency with similar households, and receive personalized savings tips.
+
+Third-Party Sensor Integration
+The thermostat can pair with:
+- Motion sensors
+- Door and window sensors
+- Indoor/outdoor temperature modules
+- Air quality sensors
+
+These sensors enable automations such as pausing HVAC when windows are open or preheating based on outdoor temperatures.
+
+API Access
+Developers may use the SmartHeat Pro REST API to read device status or adjust settings programmatically. API keys are created inside the mobile app and support rate limits of 1000 requests per day.

@@ -1,0 +1,62 @@
+SmartHeat Pro Thermostat – Usage Guide
+--------------------------------------
+
+Introduction
+The SmartHeat Pro is designed to offer users effortless control over their home climate. This guide explains key features, including temperature control, scheduling, Eco Mode, motion sensing, energy reporting, and advanced automation rules. Understanding the usage capabilities ensures both maximum comfort and energy efficiency.
+
+Manual Temperature Adjustments
+You can adjust the temperature directly from the thermostat or through the mobile app. Turning the dial or tapping the on-screen arrows will modify the target temperature. Manual adjustments temporarily override scheduled temperatures. The override remains active until the next scheduled period or until manually reset.
+
+Scheduling and Routines
+SmartHeat Pro supports detailed scheduling with up to six periods per day. Users can configure:
+- Wake
+- Leave
+- Return
+- Sleep
+- Weekend variations
+- Custom periods (e.g., “Home Office”)
+
+Each period can define a specific heating or cooling setpoint. The thermostat automatically switches modes based on your system type. If you enable Adaptive Scheduling, the device learns from your daily habits and makes subtle changes to improve comfort.
+
+Eco Mode
+Eco Mode reduces energy consumption by widening the tolerance band between heating and cooling. When enabled, the thermostat allows temperatures to drift slightly from the setpoint, reducing HVAC runtime. Eco Mode activates automatically when the home is unoccupied if motion detection is enabled. Users may customize Eco Mode thresholds within the app.
+
+Fan Control
+You may set the fan mode to:
+- Auto: runs only when heating or cooling is active
+- On: continuous airflow
+- Circulate: periodic airflow based on measured air quality
+Circulate mode is recommended for homes with uneven temperature distribution or high humidity.
+
+Motion Sensing
+SmartHeat Pro includes a passive infrared motion sensor. When motion is detected, the thermostat assumes occupancy. This affects scheduling and Eco Mode activation. If you prefer not to use motion detection, it can be disabled in the device settings.
+
+Energy Reports
+Weekly and monthly energy reports are available through the mobile app. These reports summarize:
+- Estimated energy usage
+- HVAC runtime hours
+- Efficiency tips
+- Comparisons with previous periods
+
+SmartHeat Pro uses anonymized performance data aggregated from similar households to recommend ways to save energy.
+
+Vacation Mode
+When away for extended periods, enable Vacation Mode to maintain minimum heating or cooling. This protects pipes from freezing or prevents excessive heat buildup. Vacation Mode overrides schedules until manually disabled.
+
+Advanced Automations
+Through the mobile app, you may create automation rules, such as:
+- “If outside temperature is below 5°C, preheat the house at 06:00.”
+- “If humidity exceeds 70%, turn on circulation for 20 minutes.”
+- “When leaving home, activate Eco Mode automatically.”
+
+Integrating with smart sensors (motion, door, window) enhances automation accuracy. Many users combine SmartHeat Pro with window sensors to pause cooling when windows are open.
+
+System Status Indicators
+The thermostat displays system modes:
+- Heating (orange)
+- Cooling (blue)
+- Fan Only (green)
+- Idle (gray)
+- Standby (dimmed)
+
+The system status helps diagnose HVAC behavior and ensures everything is functioning normally.

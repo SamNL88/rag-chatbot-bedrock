@@ -1,0 +1,54 @@
+# ------------------------
+# Python artifacts
+# ------------------------
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pkl
+
+# Byte-compiled / optimized / DLL files
+*.so
+*.dll
+
+# ------------------------
+# Virtual environments
+# ------------------------
+.venv/
+venv/
+env/
+
+# ------------------------
+# VS Code workspace files
+# ------------------------
+.vscode/
+*.code-workspace
+
+# ------------------------
+# OS / Temporary files
+# ------------------------
+.DS_Store
+Thumbs.db
+
+# ------------------------
+# Project data artifacts
+# ------------------------
+data/
+!data/.gitkeep
+
+# ------------------------
+# Model caches (SentenceTransformers, HuggingFace)
+# ------------------------
+.cache/
+.cache/*
+
+# ------------------------
+# AWS / Credentials (never commit!)
+# ------------------------
+.aws/
+*.pem
+
+# ------------------------
+# Logs
+# ------------------------
+*.log

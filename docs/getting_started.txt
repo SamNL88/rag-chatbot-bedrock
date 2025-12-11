@@ -1,0 +1,41 @@
+SmartHeat Pro Thermostat – Getting Started Guide
+------------------------------------------------
+
+Introduction
+The SmartHeat Pro is an intelligent, Wi-Fi–enabled thermostat designed to maintain optimal comfort while reducing energy usage. Before beginning the installation process, ensure you have verified compatibility with your home’s heating system. The SmartHeat Pro supports most 24V HVAC systems, including gas, electric, and heat pump configurations. It does not support high-voltage (110/220V) heating systems.
+
+Package Contents
+Your SmartHeat Pro includes:
+- The SmartHeat Pro thermostat unit
+- Wall mounting plate
+- Screws and anchors
+- Leveling guide
+- Quick-start instruction leaflet
+- Optional wire labels
+- USB-C port for emergency power
+
+Installation Requirements
+Before installation, turn off power to your HVAC system from the circuit breaker. This prevents damage to the thermostat or wiring. The thermostat requires a common (C) wire to operate. If your system does not have a C-wire, you may use the included Power Adapter Kit or contact a professional installer. The installation process typically takes 10–20 minutes.
+
+Mounting and Wiring
+Remove your old thermostat and label each wire using the included stickers. The SmartHeat Pro baseplate contains clearly marked terminals for R, C, Y, W, O/B, G, AUX, and PEK (Power Extension Kit). Insert wires firmly into the terminals until they click. Use the built-in leveling guide to ensure the thermostat is aligned before securing it with screws.
+
+Powering On
+Restore power at the circuit breaker. The thermostat will start automatically and display the welcome screen. If it does not power on, double-check wiring connections, especially the R and C terminals, and ensure the mounting plate is fully engaged.
+
+Initial Setup on the Device
+The thermostat will guide you through:
+1. Selecting your preferred language
+2. Choosing heating/cooling system type
+3. Connecting to your home Wi-Fi network
+4. Setting your preferred temperature units (°C or °F)
+5. Optional: enabling Eco Mode during setup
+
+Wi-Fi Connectivity
+SmartHeat Pro supports 2.4 GHz networks. It does not connect to 5 GHz–only networks. If your router broadcasts both frequencies, choose the 2.4 GHz SSID during setup. For mesh networks, you may need to move closer to a node during pairing. If connection fails, try resetting network settings via the device’s Wi-Fi menu.
+
+Account Setup
+To unlock remote control, scheduling, and energy reports, download the SmartHeat mobile app from the App Store or Google Play. Create an account and pair the device by scanning the QR code displayed on the thermostat. The pairing process should complete within one minute. If pairing fails, ensure your phone is on the same Wi-Fi network and that Bluetooth is enabled.
+
+Finishing Setup
+Once installation and configuration are complete, the thermostat enters its Home Screen mode, showing current temperature, humidity, and system status (Heating, Cooling, Idle). You may now adjust the temperature manually or through the app. Your device will automatically begin learning your comfort patterns over the next several days.

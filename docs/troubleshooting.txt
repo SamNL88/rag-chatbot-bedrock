@@ -1,0 +1,71 @@
+SmartHeat Pro Thermostat – Troubleshooting Guide
+------------------------------------------------
+
+Introduction
+This troubleshooting guide provides solutions to common issues encountered while installing or using the SmartHeat Pro thermostat. If you cannot resolve your issue using the steps below, contact SmartHeat Support for further assistance.
+
+Thermostat Not Powering On
+If the thermostat does not turn on after installation:
+1. Confirm that the circuit breaker controlling your HVAC system is turned on.
+2. Verify that the R and C wires are correctly inserted and fully locked into the terminals.
+3. Ensure that your system provides a stable 24V supply.
+4. If your system lacks a C-wire, install the included Power Adapter Kit or connect through the PEK terminal.
+
+Wi-Fi Connection Fails
+If Wi-Fi setup fails:
+- Make sure you are connecting to a 2.4 GHz network.
+- Check the Wi-Fi password.
+- Move the thermostat closer to the router or mesh network node.
+- Restart your router.
+- Reset the thermostat’s network settings via Settings > Network > Reset.
+
+Device Not Responding in Mobile App
+When the mobile app cannot communicate with the thermostat:
+- Ensure your phone is online.
+- Verify that your thermostat appears as “Online” in the app.
+- Restart the thermostat by holding the side button for 5 seconds.
+- Refresh the device list in the app.
+
+Temperature Incorrect or Inconsistent
+If the thermostat displays incorrect temperatures:
+- Ensure the thermostat is not in direct sunlight.
+- Check for drafts or vents blowing onto the device.
+- Calibrate the temperature sensor via Settings > Calibration.
+- If the temperature swings excessively, adjust the HVAC cycle rate.
+
+System Not Heating or Cooling
+If your system is not turning on:
+- Confirm system mode (Heating/Cooling) is enabled.
+- Check wiring connections, especially Y (cooling) and W (heating).
+- Verify the HVAC system is not in “Lockout Mode.”
+- Inspect the furnace or air handler for errors.
+- If using a heat pump, check that O/B settings are correct.
+
+Error Codes
+Common error codes include:
+- E01: No power detected on R wire
+- E02: Wi-Fi module not responding
+- E03: HVAC short cycle detected
+- E04: Temperature sensor calibration needed
+- E05: Firmware update failed
+
+For E05, restart the device and ensure stable Wi-Fi before retrying the update.
+
+Firmware Update Issues
+If updates fail repeatedly:
+- Ensure Wi-Fi is stable
+- Restart the device
+- Leave the device idle for several minutes
+- Check available storage in Settings > Device Info
+
+Motion Detection Not Working
+- Ensure the lens is clean and unobstructed
+- Disable and re-enable motion detection in settings
+- Avoid placing the thermostat behind doors or plants
+
+Contacting Support
+If you continue experiencing issues, contact support with:
+- Device serial number
+- Firmware version
+- Description of issue
+- Steps already tried
