@@ -4,7 +4,6 @@ botocore==1.42.4
 numpy==2.3.5
 
 sentence-transformers==5.1.2
-torch==2.8.0+cpu
 
 langchain-core==1.1.1
 langchain-text-splitters==1.0.0
